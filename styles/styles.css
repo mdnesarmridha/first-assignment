@@ -145,6 +145,7 @@ body {
 	text-align: center;
 }
 
+/* Positive Mindset CSS*/
 .positive-mindset-content {
 	padding: 60px;
 	border-radius: 8px;
@@ -165,6 +166,11 @@ body {
 	border: 0;
 	border-radius: 5px;
 	padding: 20px 35px;
+}
+/* Contact CSS*/
+.contact{
+	display: flex;
+	gap:100px;
 }
 /* Footer Css */
 
