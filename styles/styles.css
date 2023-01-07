@@ -248,11 +248,11 @@ body {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 26px;
-	margin-bottom: 24px;
+	margin-bottom: 16px;
 }
 
 .social-profile {
-	margin-top: 16px;
+	margin-top: 32px;
 	display: flex;
 	gap: 15px;
 }
