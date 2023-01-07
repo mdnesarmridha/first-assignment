@@ -172,7 +172,7 @@ body {
 .contact{
 	display: flex;
 	gap:100px;
-	margin-top: 80px;
+	margin-top: 100px;
 }
 .contact-content-item{
 	width: 50%;
@@ -224,14 +224,15 @@ body {
 	display: flex;
 	margin: 0 auto;
 	justify-content: space-between;
+	gap:300px
 }
 
 .footer-left-item {
-	flex-basis: 500px;
+	flex-basis: 60%;
 }
 
 .footer-right-item {
-	flex-basis: 300px;
+	flex-basis: 40%;
 }
 
 .footer-left-item h2 {
