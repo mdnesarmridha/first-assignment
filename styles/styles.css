@@ -112,6 +112,7 @@ body {
 
 .my-plans .section-title {
 	text-align: center;
+	margin-bottom: 60px;
 }
 
 .my-plans-items {
@@ -171,6 +172,44 @@ body {
 .contact{
 	display: flex;
 	gap:100px;
+	margin-top: 80px;
+}
+.contact-content-item{
+	width: 50%;
+}
+.contact .section-title h2{
+	margin-bottom: 40px;
+}
+.contact p, .contact label {
+	color: #444343;
+	font-weight: 400;
+	font-size: 16px;
+	margin-bottom: 16px;
+}
+.contact input,
+.contact textarea {
+	background-color: #efefef;
+	border: 1px solid #efefef;
+	border-radius: 10px;
+	color: #737373;
+	font-size: 16px;
+	font-weight: 400;
+	margin-bottom: 15px;
+	padding: 15px;
+	width: 100%;
+	margin-top: 5px;
+}
+
+.contact input[type="submit"] {
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 23px;
+	background-color: #F15B22;
+	color: #fff;
+	border: 0;
+	border-radius: 5px;
+	padding: 20px 25px;
+	width: 150px;
 }
 /* Footer Css */
 
